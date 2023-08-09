@@ -1,0 +1,100 @@
+
+{
+"items": [
+{
+"product-rate-plan-sku": "digital_12mo",
+"name": "Digital 12 month subscription",
+"value": "Annually",
+"benefit": "",
+"feature": "",
+"free-trial-days": 14,
+"monthly-cost": {
+"price": "12.50",
+"currency": "USD",
+"symbol": "$"
+},
+"pricing": {
+"price": "149.99",
+"currency": "USD",
+"symbol": "$"
+}
+},
+{
+"product-rate-plan-sku": "digital_1mo",
+"name": "Digital monthly subscription",
+"value": "Monthly",
+"benefit": "",
+"feature": "",
+"free-trial-days": 7,
+"monthly-cost": {
+"price": "19.99",
+"currency": "USD",
+"symbol": "$"
+},
+"pricing": {
+"price": "19.99",
+"currency": "USD",
+"symbol": "$"
+}
+},
+{
+"product-rate-plan-sku": "digital_bundle_04",
+"name": "Digital 12 month + accessories subscription",
+"value": "Annually",
+"benefit": "",
+"feature": "",
+"free-trial-days": 0,
+"monthly-cost": {
+"price": "12.50",
+"currency": "USD",
+"symbol": "$"
+},
+"pricing": {
+"price": "149.99",
+"currency": "USD",
+"symbol": "$"
+},
+"one-time-fee": {
+"price": "86.00",
+"currency": "USD",
+"symbol": "$"
+},
+"pricing-discount": {
+"price": "",
+"currency": "USD",
+"symbol": "$",
+"discount-amount": "86.00"
+}
+},
+{
+"product-rate-plan-sku": "digital_bundle_05",
+"name": "Digital 12 month + accessories + vip access subscription",
+"value": "Annually",
+"benefit": "",
+"feature": "",
+"free-trial-days": 0,
+"monthly-cost": {
+"price": "12.50",
+"currency": "USD",
+"symbol": "$"
+},
+"pricing": {
+"price": "149.99",
+"currency": "USD",
+"symbol": "$"
+},
+"one-time-fee": {
+"price": "86.00",
+"currency": "USD",
+"symbol": "$"
+},
+"pricing-discount": {
+"price": "",
+"currency": "USD",
+"symbol": "$",
+"discount-amount": "86.00"
+}
+}
+],
+"meta": null
+}
